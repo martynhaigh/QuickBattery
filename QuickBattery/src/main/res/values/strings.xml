@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Quick Battery</string>
+    <string name="start_quick_battery">show charge</string>
+
+
+</resources>

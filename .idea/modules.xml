@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/QuickBattery/QuickBattery.iml" filepath="$PROJECT_DIR$/QuickBattery/QuickBattery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QuickBatteryProject.iml" filepath="$PROJECT_DIR$/QuickBatteryProject.iml" />
+    </modules>
+  </component>
+</project>
+
